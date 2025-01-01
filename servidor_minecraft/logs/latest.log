@@ -70,3 +70,6 @@
 [15:47:16] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f67efdba-fb1a-4214-ae08-41ba1f1ec2fc, mapped to Pig['Pig'/256, uuid='f67efdba-fb1a-4214-ae08-41ba1f1ec2fc', l='ServerLevel[world]', x=569.00, y=63.00, z=1971.00, cpos=[35, 123], tl=0, v=true], can't add Pig['Pig'/259, uuid='f67efdba-fb1a-4214-ae08-41ba1f1ec2fc', l='ServerLevel[world]', x=566.93, y=63.00, z=1967.93, cpos=[35, 122], tl=142, v=false]
 [15:50:17] [Server thread/INFO]: VZ1314 issued server command: /skin set StarWarriorCat
 [15:51:39] [Server thread/INFO]: VZ1314 issued server command: /skin set PadfootTheWolf
+[15:57:50] [Server thread/INFO]: VZ1314 has made the advancement [Isn't It Iron Pick]
+[16:03:52] [Server thread/INFO]: VZ1314 has made the advancement [Suit Up]
+[16:05:07] [Server thread/INFO]: VZ1314 has made the advancement [Diamonds!]
