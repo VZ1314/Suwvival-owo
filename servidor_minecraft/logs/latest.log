@@ -75,3 +75,9 @@
 [00:41:45] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9238ff62-7a4e-46d1-a6cc-f5beea10448a, mapped to Chicken['Chicken'/273, uuid='9238ff62-7a4e-46d1-a6cc-f5beea10448a', l='ServerLevel[world]', x=519.00, y=67.00, z=1291.00, cpos=[32, 80], tl=0, v=true], can't add Chicken['Chicken'/283, uuid='9238ff62-7a4e-46d1-a6cc-f5beea10448a', l='ServerLevel[world]', x=511.96, y=68.00, z=1291.97, cpos=[31, 80], tl=137, v=false]
 [00:45:37] [Async Chat Thread - #0/INFO]: [Not Secure] <VZ1314> aa
 [00:45:53] [Server thread/WARN]: VZ1314 moved wrongly!
+[00:53:16] [Server thread/INFO]: VZ1314 issued server command: /sethome
+[00:53:25] [Server thread/INFO]: VZ1314 issued server command: /sethome aldea
+[00:53:45] [Server thread/INFO]: VZ1314 issued server command: /delhome aldea
+[00:54:03] [Server thread/INFO]: VZ1314 issued server command: /sethome 1
+[00:54:06] [Server thread/INFO]: VZ1314 issued server command: /home1
+[00:54:07] [Server thread/INFO]: VZ1314 issued server command: /home 1
